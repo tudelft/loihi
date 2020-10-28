@@ -1,0 +1,14 @@
+------------------------------------------
+Output infill	 Loihi
+------------------------------------------
+Average          13.64%
+Median           13.61%
+Variance          0.88%
+Standard dev.     0.94%
+Max              15.29%
+Min              11.53%
+------------------------------------------
+
+P-value for the Kolmogorov-Smirnov normality test
+        [Loihi] 1.00
+
